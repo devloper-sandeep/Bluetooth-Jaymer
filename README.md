@@ -49,45 +49,6 @@ An interactive, animated Python terminal script simulating Gojo Satoru's **Unlim
 
 ---
 
-## 🖼️ Interface & Terminal Previews
-
-### 1. Unlimited Void Domain Activation
-```text
-  ┌────────────────────────────────────────────────────────────────────────┐
-  │                                                                        │
-  │   >>> WEAVING THE LARGE 3D HAND SIGN... <<<                            │
-  │                                                                        │
-  │                         .-----------------.                            │
-  │                        /  .----.     .----.  \                         │
-  │                       /  /      \   /      \  \                        │
-  │                      |  |   ( ✌ ) | |   ( ✌ )  |  |                       │
-  │                       \  \      /   \      /  /                        │
-  │                        \  '----'     '----'  /                         │
-  │                         '-----------------'                            │
-  │                              ||       ||                               │
-  │                                                                        │
-  │     🌌 DOMAIN EXPANSION: BLUETOOTH JAYMER 🌌                            │
-  │                                                                        │
-  └────────────────────────────────────────────────────────────────────────┘
-```
-
-### 2. Live Target Lock & Stream UI
-```text
-  ┌────────────────────────────────────────────────────────────────────────┐
-  │                                                                        │
-  │   [+] Bluetooth interface powered ON automatically.                    │
-  │   [*] Scan complete. Target 'jaym' locked (XX:XX:XX:AA:BB:01).          │
-  │                                                                        │
-  │   [+] High-Speed Stream -> jaym | Packets Transmitted: 14850            │
-  │   [*] Active Bluetooth Jaymer stream running. Press CTRL+C to stop.    │
-  │                                                                        │
-  └────────────────────────────────────────────────────────────────────────┘
-```
-
-> *(Add terminal screenshots directly in your repository under an `assets/` folder to display live preview images here)*
-
----
-
 ## ⚡ Quick Start
 
 ### 1. Install
